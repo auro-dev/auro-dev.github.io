@@ -3,8 +3,13 @@
     "short_name": "ayna_task",
     "start_url": ".",
     "display": "standalone",
+<<<<<<< HEAD
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
+=======
+    "background_color": "#hexcode",
+    "theme_color": "#hexcode",
+>>>>>>> 3fba626 (firebase deployed)
     "description": "My Gateway to Ayna AI",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
@@ -32,4 +37,8 @@
             "purpose": "maskable"
         }
     ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3fba626 (firebase deployed)

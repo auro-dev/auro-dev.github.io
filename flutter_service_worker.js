@@ -4,6 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const RESOURCES = {"flutter_bootstrap.js": "573561a8930a0616392eaf08b62067f8",
 =======
 const RESOURCES = {"flutter_bootstrap.js": "7cb5f94d12785aa47f6a9e3d26b70158",
@@ -39,12 +40,40 @@ const RESOURCES = {"flutter_bootstrap.js": "7cb5f94d12785aa47f6a9e3d26b70158",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "9fc5b6fb774fdcd6742337c08bd8f50e",
 >>>>>>> 4fc5731 (ready to push)
+=======
+const RESOURCES = {"flutter_bootstrap.js": "49488e061596389b40f955c4219d6d80",
+"version.json": "e48a08e3736c0132a2db7daa62165440",
+"index.html": "2c8dc5ddfc26a6d8d46f17d5eb3c1a77",
+"/": "2c8dc5ddfc26a6d8d46f17d5eb3c1a77",
+"main.dart.js": "5a0215833640a7434ac59c29bd3f4459",
+"404.html": "be8c87d51a91d0b84ad382f75a4c4014",
+"flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
+"favicon.png": "9e52f32322344eaea66e0be14331e772",
+"icons/Icon-192.png": "869655553e7a3a4b986a441c579a2367",
+"icons/Icon-maskable-192.png": "869655553e7a3a4b986a441c579a2367",
+"icons/Icon-maskable-512.png": "90c61f8c8995bb1a3a9cb79c7b8ebdff",
+"icons/Icon-512.png": "90c61f8c8995bb1a3a9cb79c7b8ebdff",
+"manifest.json": "c7395e44b9b52200fe6f95cc3efb7bb2",
+"assets/AssetManifest.json": "e432bbfa33280f38cd05d21eee8b3a7d",
+"assets/404.html": "5b13c88ea178b9ebc73493c634fec9d4",
+"assets/NOTICES": "dcbe66b3cd2ac81e91a1270b66f75d73",
+"assets/FontManifest.json": "7df10702a8c60a62e6694f43081d46e7",
+"assets/AssetManifest.bin.json": "176574e45264d1925b4605b6c3c754e3",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/packages/iconsax_flutter/fonts/FlutterIconsax.ttf": "83c878235f9c448928034fe5bcba1c8a",
+"assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
+"assets/AssetManifest.bin": "4cb97eee465629e7aaf478e0a80451f1",
+>>>>>>> 3fba626 (firebase deployed)
 "assets/fonts/MaterialIcons-Regular.otf": "8fee367bae7bffc9c3d89e6452e7b545",
 "assets/assets/anim/skull_anim.json": "72086f6ef03963d24eab90833b8fd8d8",
 "assets/assets/icons/skull.png": "5e19a6111219c3be11e8f09095813da7",
 "assets/assets/icons/app_icon.svg": "48079ccc24de5f02f681deb89e00c871",
 "assets/assets/icons/skull_standing.svg": "350de88ffc3aa6f3238c79b545abc68f",
 "assets/assets/icons/chat_bg.png": "9bea0560a20db534556cc7162ea4a2d7",
+<<<<<<< HEAD
+=======
+"assets/assets/icons/skull_icon.png": "e1dafb9da27800d1ba80293684814e98",
+>>>>>>> 3fba626 (firebase deployed)
 "canvaskit/skwasm.js": "5d4f9263ec93efeb022bb14a3881d240",
 "canvaskit/skwasm.js.symbols": "c3c05bd50bdf59da8626bbe446ce65a3",
 "canvaskit/canvaskit.js.symbols": "74a84c23f5ada42fe063514c587968c6",
