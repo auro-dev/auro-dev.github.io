@@ -3,7 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {"flutter_bootstrap.js": "573561a8930a0616392eaf08b62067f8",
+=======
+const RESOURCES = {"flutter_bootstrap.js": "7cb5f94d12785aa47f6a9e3d26b70158",
+>>>>>>> 4fc5731 (ready to push)
 "version.json": "e48a08e3736c0132a2db7daa62165440",
 "index.html": "2c8dc5ddfc26a6d8d46f17d5eb3c1a77",
 "/": "2c8dc5ddfc26a6d8d46f17d5eb3c1a77",
@@ -15,6 +19,7 @@ const RESOURCES = {"flutter_bootstrap.js": "573561a8930a0616392eaf08b62067f8",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "30b1128a883fd2846957ebb92a1f51f8",
+<<<<<<< HEAD
 "assets/AssetManifest.json": "dc5942492d66cfc5afc2e415172db11e",
 "assets/NOTICES": "dffba6516033b459586886f541d8bc33",
 "assets/FontManifest.json": "7df10702a8c60a62e6694f43081d46e7",
@@ -23,6 +28,17 @@ const RESOURCES = {"flutter_bootstrap.js": "573561a8930a0616392eaf08b62067f8",
 "assets/packages/iconsax_flutter/fonts/FlutterIconsax.ttf": "83c878235f9c448928034fe5bcba1c8a",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "28db999e0f84c42a02861c9c83d96bd9",
+=======
+"assets/AssetManifest.json": "a7577f932d41b3a9fd52a259a7bc07ad",
+"assets/404.html": "216dcab922363a14d38fff6448531ec3",
+"assets/NOTICES": "dffba6516033b459586886f541d8bc33",
+"assets/FontManifest.json": "7df10702a8c60a62e6694f43081d46e7",
+"assets/AssetManifest.bin.json": "599ce719afaf006e8477207cc24d7bc7",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/packages/iconsax_flutter/fonts/FlutterIconsax.ttf": "83c878235f9c448928034fe5bcba1c8a",
+"assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
+"assets/AssetManifest.bin": "9fc5b6fb774fdcd6742337c08bd8f50e",
+>>>>>>> 4fc5731 (ready to push)
 "assets/fonts/MaterialIcons-Regular.otf": "8fee367bae7bffc9c3d89e6452e7b545",
 "assets/assets/anim/skull_anim.json": "72086f6ef03963d24eab90833b8fd8d8",
 "assets/assets/icons/skull.png": "5e19a6111219c3be11e8f09095813da7",

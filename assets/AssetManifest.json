@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"assets/anim/skull_anim.json":["assets/anim/skull_anim.json"],"assets/icons/app_icon.svg":["assets/icons/app_icon.svg"],"assets/icons/chat_bg.png":["assets/icons/chat_bg.png"],"assets/icons/skull.png":["assets/icons/skull.png"],"assets/icons/skull_standing.svg":["assets/icons/skull_standing.svg"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"],"packages/iconsax_flutter/fonts/FlutterIconsax.ttf":["packages/iconsax_flutter/fonts/FlutterIconsax.ttf"]}
+=======
+{"404.html":["404.html"],"assets/anim/skull_anim.json":["assets/anim/skull_anim.json"],"assets/icons/app_icon.svg":["assets/icons/app_icon.svg"],"assets/icons/chat_bg.png":["assets/icons/chat_bg.png"],"assets/icons/skull.png":["assets/icons/skull.png"],"assets/icons/skull_standing.svg":["assets/icons/skull_standing.svg"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"],"packages/iconsax_flutter/fonts/FlutterIconsax.ttf":["packages/iconsax_flutter/fonts/FlutterIconsax.ttf"]}
+>>>>>>> 4fc5731 (ready to push)
